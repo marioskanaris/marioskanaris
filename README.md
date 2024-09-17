@@ -1,6 +1,3 @@
-📢 Nominate ([@MariosKanaris](https://github.com/marioskanaris)) as **[GitHub Star](https://stars.github.com/nominate)** if you appreciate my hard work and dedication to open source!
-
----
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Marios Kanaris.
 
